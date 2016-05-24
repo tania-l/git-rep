@@ -1,4 +1,4 @@
-function palindrom(str) {
+function palindroms(str) {
   
   str = str.toLowerCase();
   str = str.replace(/[^a-zA-Z0-9]/g,'');
